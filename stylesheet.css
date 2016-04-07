@@ -1,0 +1,47 @@
+html {
+    height: 100vh;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background: #001932 url(splash.jpg) no-repeat center center fixed;
+    color: white;
+    height: 100vh;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.unit {
+    
+    text-align: center;
+}
+.numbers {
+    font-size: 7.5em;
+}
+
+.row{
+    text-align: center;
+}
+
+.text {
+    margin-top: 0px;
+    font-size: 3em;
+    margin: 0px, 20px;
+}
+
+#onlinelogo {
+    height: 6em;
+    margin-bottom: 2em;
+}
+
+.wrapper {
+    height: 100%;
+}
+
+#spacer {
+    min-height: 30%;
+}
+footer.page-footer {
+    background-color: rgba(0,0,0,0);
+}
