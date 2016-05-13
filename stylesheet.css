@@ -65,4 +65,10 @@ body {
 
 @media (max-width: 424px) {
   html { font-size: 20%; }
+  #onlinelogo { height: 5rem; }
+}
+
+/* landscape handling */
+@media (max-width: 667px) and (max-height: 375px) and (orientation: landscape) {
+    #onlinelogo { height: 3rem; bottom: 15px; }
 }
