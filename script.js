@@ -2,10 +2,6 @@ function pad(n) {
   return ('00' + n).slice(-2);
 }
 
-function dec2bin(dec){
-    return (dec >>> 0).toString(16);
-}
-
 function timer() {
     window.setInterval(function () {
             var target = Date.UTC(2016, 10, 12, 18, 0);
