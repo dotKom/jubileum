@@ -39,4 +39,3 @@ function timer() {
 
 }
 
-document.onload = timer();
