@@ -1,47 +1,68 @@
 html {
-    height: 100vh;
+  font-size: 62.5%;
 }
 
 body {
     font-family: 'Open Sans', sans-serif;
     background: #001932 url(splash.jpg) no-repeat center center fixed;
     color: white;
-    height: 100vh;
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
+    margin: 0;
 }
 
-.unit {
-    
-    text-align: center;
+#timer {
+  display: flex;
+  justify-content: space-between;
+
+  width: 1280px;
+
+  position: absolute;
+  top: 43%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -57%);
+     -moz-transform: translate(-50%, -57%);
+      -ms-transform: translate(-50%, -57%);
+          transform: translate(-50%, -57%);
 }
+
+.timer-item {
+  text-align: center;
+}
+
 .numbers {
-    font-size: 7.5em;
-}
-
-.row{
-    text-align: center;
+  font-size: 12rem;
 }
 
 .text {
-    margin-top: 0px;
-    font-size: 3em;
-    margin: 0px, 20px;
+  font-size: 4.5rem;
 }
 
 #onlinelogo {
-    height: 6em;
-    margin-bottom: 2em;
+    height: 8rem;
+    position: absolute;
+    bottom: 35px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+       -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+            transform: translateX(-50%);
 }
 
-.wrapper {
-    height: 100%;
+@media (max-width: 1310px) {
+  #timer { width: 90%; }
 }
 
-#spacer {
-    min-height: 30%;
+@media (max-width: 992px) {
+  html { font-size: 50%; }
 }
-footer.page-footer {
-    background-color: rgba(0,0,0,0);
+
+@media (max-width: 789px) {
+  html { font-size: 40%; }
+}
+
+@media (max-width: 594px) {
+  html { font-size: 30%; }
+}
+
+@media (max-width: 424px) {
+  html { font-size: 20%; }
 }
