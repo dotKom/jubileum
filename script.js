@@ -1,8 +1,5 @@
-function pad(n, width, z) {
-    n = n.toString();
-    z = z || '0';
-    n = n + '';
-    return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
+function pad(n) {
+  return ('00' + n).slice(-2);
 }
 
 function dec2bin(dec){
