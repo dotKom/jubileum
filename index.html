@@ -1,54 +1,44 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="/favicon.png"/>
     <title>Online 30 år!</title>
-    <!-- Compiled and minified CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/css/materialize.min.css">
-    <!-- Compiled and minified JavaScript -->
-    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-
     <!-- Chrome, Firefox OS, Opera and Vivaldi -->
     <meta name="theme-color" content="#001932">
     <!-- Windows Phone -->
     <meta name="msapplication-navbutton-color" content="#001932">
     <!-- iOS Safari -->
     <meta name="apple-mobile-web-app-status-bar-style" content="#001932">
+    <meta name = "viewport" content = "width = 320, initial-scale = 2.3, user-scalable = yes">
 
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.6/js/materialize.min.js"></script>
-    <link rel=stylesheet href="stylesheet.css">
-    <script src="script.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
 </head>
 <body>
-<div class="container wrapper">
-    <div id="spacer"></div>
-    <div class="row">
-        <div class="unit col s12 m12 l3">
-            <div id="days" class="numbers"></div>
-            <span class="text">dager</span>
-        </div>
-        <div class="unit col s12 m4 l3">
-            <div id="hours" class="numbers"></div>
-            <span class="text">timer</span>
-        </div>
-        <div class="unit col s12 m4 l3">
-            <div id="mins" class="numbers"></div>
-            <span class="text">minutter</span>
-        </div>
-        <div class="unit col s12 m4 l3">
-            <div id="seconds" class="numbers"></div>
-            <span class="text">sekunder</span>
-        </div>
+  <section id="timer">
+    <div class="timer-item">
+      <div id="days" class="numbers"></div>
+      <span class="text">dager</span>
     </div>
-</div>
-<footer class="page-footer">
-    <div class="row">
-        <div class="col s12">
-            <img id="onlinelogo" src="online.svg" alt="online">
-        </div>
+    <div class="timer-item">
+      <div id="hours" class="numbers"></div>
+      <span class="text">timer</span>
     </div>
-</footer>
+    <div class="timer-item">
+      <div id="mins" class="numbers"></div>
+      <span class="text">minutter</span>
+    </div>
+    <div class="timer-item">
+      <div id="seconds" class="numbers"></div>
+      <span class="text">sekunder</span>
+    </div>
+  </section>
+
+  <footer>
+    <img id="onlinelogo" src="online.svg" alt="online">
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
