@@ -1,0 +1,56 @@
+#fadder {
+  background-color: #fff;
+  color: #444;
+
+  transform: skew(0deg, -2deg);
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+  margin-bottom: 85px;
+
+  .component {
+    transform: skew(0deg, 2deg);
+  }
+}
+
+.fadder-content {
+  display: flex;
+}
+
+.fadder-description {
+  width: 70%;
+}
+
+.fadder-imageColumn {
+  width: 30%;
+  display: relative;
+}
+
+.fadder-image {
+  height: 250px;
+  position: absolute;
+  top: 0px;
+}
+
+
+@media screen and (max-width: 970px) {
+  .fadder-imageColumn {
+    width: 40%;
+  }
+  
+  .fadder-description {
+    width: 50%;
+  }
+  
+}
+
+@media screen and (max-width: 720px) {
+  .fadder-imageColumn {
+    display: none;
+  }
+
+  .fadder-description {
+    width: 100%;
+  }
+  
+}

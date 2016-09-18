@@ -1,0 +1,62 @@
+#about {
+  text-align: center;
+  padding-top: 350px;
+  width: 75%;
+  color: $blue;
+  transform: rotate( -10deg);
+  font-size: 22px;
+}
+
+#about p {
+  text-align: left;
+}
+
+.about-header-logo {
+  width: 350px;
+  margin-top: 65px;
+}
+
+.about-description {
+  font-size: 20px;
+}
+
+.orderTicket {
+  color: $blue;
+  font-size: 14px;
+  display: block;
+  width: 200px;
+
+  margin: 0 auto;
+  padding-top: 12px;
+  padding-bottom: 12px;
+
+  border: 1px solid #ddd;
+  border-radius: 5px;
+
+  &:hover {
+    border-color: $blue;
+    color: $blue;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  #about {
+    padding-top: 135px;
+    padding-bottom: 170px;
+  }
+  
+  #header {
+    padding-top: 130px;
+  }
+
+  .about-description {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  #about {
+    padding-top: 100px;
+    padding-bottom: 140px;
+  }
+}

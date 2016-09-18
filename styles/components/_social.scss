@@ -1,0 +1,19 @@
+#social {
+  text-align: center;
+}
+
+.social-icon {
+  padding: 0 20px;
+  opacity: 0.5;
+
+  &:hover {
+    opacity: 1;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .social-icon {
+    padding: 0 15px;
+    width: 26px;
+  }
+}

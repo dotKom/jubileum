@@ -14,15 +14,19 @@ import Social from './components/social';
 
 const App = () => {
   return (
-    <div>
-      <About />
-      {/*<Fadder />
-      <Calendar />
-      <Join />
-      <Slack />
-      <Social />
-      <Contact />
-      <Partners />*/}
+    <div className="blue-border">
+      <div className="orange-border">
+        <div className="white-border">
+          <About />
+          {/*<Fadder />
+           <Calendar />
+           <Join />
+           <Slack />
+           <Social />
+           <Contact />
+           <Partners />*/}
+        </div>
+      </div>
     </div>
   );
 };
