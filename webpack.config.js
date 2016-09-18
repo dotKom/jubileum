@@ -22,7 +22,8 @@ module.exports = {
       {
 	test: /\.scss$/,
         loader: ExtractTextPlugin.extract('style', 'css!sass'),
-      }
+      },
+      { test: /\.json$/, loader: 'json' }
     ]
   },
   sassLoader: {

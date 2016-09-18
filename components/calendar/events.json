@@ -1,0 +1,210 @@
+{
+  "count": 29,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 32,
+      "title": "Ny i Trondheim",
+      "content": "Lurer du på hvordan du skal komme deg rundt på campus? Hvor de viktigste stedene i Trondheim er? Er det første gang du flytter hjemmefra, og du lurer på hvordan i all verden du skal klare deg på bare Lånekassens budsjett? Trenger man egentlig kjøpe pensum-bøker, det er jo så dyrt! Da kan ny-i-Trondheim-kurset være noe for deg! Kurset gir en kjapp gjennomgang av det viktigste du trenger å vite som ny student i Trondheim. Kurset finner sted i S1.",
+      "start_time": "2016-08-15T12:00:00Z",
+      "end_time": "2016-08-15T13:00:00Z"
+    },
+    {
+      "id": 33,
+      "title": "Omvisning og informasjon",
+      "content": "Etter inndeling i faddergrupper får dere en omvisning på campus av faddere, litt info om Online i KJL 5 og til slutt pizza på drivhuset.",
+      "start_time": "2016-08-16T10:15:00Z",
+      "end_time": "2016-08-16T13:00:00Z"
+    },
+    {
+      "id": 34,
+      "title": "Immatrikuleringsfest",
+      "content": "Vors med faddergruppen din og deretter er det Immatrikulerings-fest på Samfundet med resten av linjene fra Gløshaugen. Du får info av fadderene dine om hvor du skal møte opp!",
+      "start_time": "2016-08-16T16:00:00Z",
+      "end_time": "2016-08-16T21:59:00Z"
+    },
+    {
+      "id": 35,
+      "title": "Velkomstmøte med institutt",
+      "content": "IDI og KID presenterer seg selv i R5, og deretter ta dere med på et opplegg hos en bedrift. Bussene går 15.00, beskjed om hvor de går fra gis på møtet.",
+      "start_time": "2016-08-17T12:15:00Z",
+      "end_time": "2016-08-17T16:00:00Z"
+    },
+    {
+      "id": 36,
+      "title": "Bli-kjent fest",
+      "content": "I dag skal dere få bli bedre kjent med resten av informatikk på bli-kjent-fest. Vors med faddergruppen din og møt oss på Redzone etterpå!",
+      "start_time": "2016-08-17T17:00:00Z",
+      "end_time": "2016-08-17T21:59:00Z"
+    },
+    {
+      "id": 37,
+      "title": "Bedriftspresentasjon med Sopra Steria",
+      "content": "Onlines hovedsamarbeidspartner, Sopra Steria, kommer til oss for å fortelle litt om seg selv. Det blir bespisning etterpå. Møt opp på EL6 i elektrobygget.",
+      "start_time": "2016-08-18T08:45:00Z",
+      "end_time": "2016-08-18T10:00:00Z"
+    },
+    {
+      "id": 39,
+      "title": "Teambuilding",
+      "content": "I dag skal vi bli bedre kjent med hverandre og med Gløshaugen! Her skal dere gjennom forskjellige leker på ulike deler av campus. Fadderene gir dere beskjed om oppmøtested for din faddergruppe.",
+      "start_time": "2016-08-18T15:00:00Z",
+      "end_time": "2016-08-18T17:00:00Z"
+    },
+    {
+      "id": 40,
+      "title": "Grilling i Høgskoleparken",
+      "content": "Hvis vi er heldige med været går vi rett fra teambuilding for grilling og kos i Høgskoleparken.",
+      "start_time": "2016-08-18T17:00:00Z",
+      "end_time": "2016-08-18T20:00:00Z"
+    },
+    {
+      "id": 38,
+      "title": "Informasjon om komiteene",
+      "content": "Du er heldig og har kommet til en linjeforening med veldig engasjerte studenter, og her gjør vi mye forskjellig. Kom og hør mer om hvilket arbeid vi gjør i Online og hva du kan bli med på i S5.",
+      "start_time": "2016-08-19T13:15:00Z",
+      "end_time": "2016-08-19T14:00:00Z"
+    },
+    {
+      "id": 41,
+      "title": "Facebook-fest",
+      "content": "Vors med faddergruppen din før facebook-fest på Nattergalen. Har du skaffet hvit t-skjorte og tusj? Da er du klar.",
+      "start_time": "2016-08-19T16:00:00Z",
+      "end_time": "2016-08-19T21:59:00Z"
+    },
+    {
+      "id": 57,
+      "title": "Grilling og parkleker (alternativt arrangement)",
+      "content": "Er du ikke er interessert i å være med på facebook-festen, men\r\nfortsatt vil finne på noe annet gøy som ikke involverer alkohol? Ta\r\nkontakt med Didrik: 466 46 168\r\nDet blir grilling og parkleker i HSP (Høgskoleparken)!",
+      "start_time": "2016-08-19T16:30:00Z",
+      "end_time": "2016-08-19T21:59:00Z"
+    },
+    {
+      "id": 42,
+      "title": "Togafest",
+      "content": "I dag er det togafest med resten av Gløshaugen. Vi vorser i høgskoleparken med de andre linjene før Samfundet tar oss i mot.",
+      "start_time": "2016-08-20T16:00:00Z",
+      "end_time": "2016-08-20T21:59:00Z"
+    },
+    {
+      "id": 43,
+      "title": "Kino og middag (alternativt arrangement)",
+      "content": "Det blir kino og etterpå drar vi ut og spiser et godt måltid på Graffi. Filmen vi skal se er Suicide Squad. Kino blir gratis og middag må dere betale selv :) Kino blir på Prinsens 18:30! Møt opp 18:15 for å få billett.\r\n\r\nDette er et alternativt arrangement uten alkohol, for de som ønsker et alkoholfritt alternativ.",
+      "start_time": "2016-08-20T16:15:00Z",
+      "end_time": "2016-08-20T20:00:00Z"
+    },
+    {
+      "id": 44,
+      "title": "By-rebus",
+      "content": "Etter by-rebus kjenner du forhåpentligvis Trondheim litt bedre! Møt opp ved Nidarosdomen, her blir dere først delt inn i grupper.",
+      "start_time": "2016-08-21T12:00:00Z",
+      "end_time": "2016-08-21T15:00:00Z"
+    },
+    {
+      "id": 45,
+      "title": "Konsollkveld",
+      "content": "Causual Gaming arrangerer konsollkveld for alle spillglade informatikere. Hele P15 blir holdt av for denne kvelden.",
+      "start_time": "2016-08-21T16:00:00Z",
+      "end_time": "2016-08-21T21:59:00Z"
+    },
+    {
+      "id": 46,
+      "title": "Bedriftspresentasjon med Computas",
+      "content": "Computas holder en liten presentasjon for oss for å fortelle litt om seg selv. Det vil bli bespisning etterpå. Møt opp på KJL1.",
+      "start_time": "2016-08-22T09:15:00Z",
+      "end_time": "2016-08-22T10:15:00Z"
+    },
+    {
+      "id": 47,
+      "title": "Hybel til hybel",
+      "content": "Vi går fra hybel til hybel og ender til slutt opp på Café 3B. Møt opp ved Nidarosdomen for å bli delt inn i grupper.",
+      "start_time": "2016-08-22T16:00:00Z",
+      "end_time": "2016-08-22T21:59:00Z"
+    },
+    {
+      "id": 60,
+      "title": "For mastere: Teambuilding",
+      "content": "I kveld skal dere bli bedre kjent med hverandre på tvers av masterretningene gjennom lek og moro. Det blir servert pizza. Det er også mulig å bli med på temafesten på Nattergalen etter temabuildingen, der temaet er Mario Party.\r\n\r\nMøt opp på Drivhuset.",
+      "start_time": "2016-08-23T16:30:00Z",
+      "end_time": "2016-08-23T21:00:00Z"
+    },
+    {
+      "id": 48,
+      "title": "Jentekveld + guttekveld, temafest",
+      "content": "Jenter møtes på onlinekontoret på P15, der vi stiller med tapas og vin, og guttene møtes i Prestegårdsvegen 1B for grilling og chilling. Etterpå drar vi til Nattergalen hvor vi møtes for skikkelig temafest.",
+      "start_time": "2016-08-23T16:30:00Z",
+      "end_time": "2016-08-23T21:59:00Z"
+    },
+    {
+      "id": 49,
+      "title": "Brettspillkveld (alternativt arrangement)",
+      "content": "Møt oss på P15 for en hyggelig brettspillkveld, etter jente/gutte-inndelingen.\r\n\r\nDette er et alternativt arrangement uten alkohol, for de som ønsker et alkoholfritt alternativ.",
+      "start_time": "2016-08-23T18:00:00Z",
+      "end_time": "2016-08-23T21:59:00Z"
+    },
+    {
+      "id": 51,
+      "title": "Bowling",
+      "content": "I kveld møtes vi på Dora bowling ved lademoen for å bowle og spille biljard!",
+      "start_time": "2016-08-24T19:00:00Z",
+      "end_time": "2016-08-24T21:59:00Z"
+    },
+    {
+      "id": 58,
+      "title": "Gratis Sushi buffet (Alternativt arrangement)",
+      "content": "I dag blir det sushi buffet for de som ikke har lyst å være med på pubgolf. Det blir på Sabrura Byhaven i byen og dette blir gratis :D. \r\nHvis dere lurer på noe ring Camilla: 901 74 382\r\n\r\nDette er et alternativt arrangement uten alkohol, for de som ønsker et alkoholfritt alternativ.",
+      "start_time": "2016-08-25T15:00:00Z",
+      "end_time": "2016-08-25T17:00:00Z"
+    },
+    {
+      "id": 52,
+      "title": "Pubgolf",
+      "content": "Møt opp ved Nidarosdomen for årets pubgolf. Vi ender runden med fest på Redzone.\r\n\r\nMan kan velge mellom en alkoholfri drink og en alkoholholdig drink på de forskjellige barene vi skal innom.",
+      "start_time": "2016-08-25T16:00:00Z",
+      "end_time": "2016-08-25T21:59:00Z"
+    },
+    {
+      "id": 61,
+      "title": "For mastere: Curling",
+      "content": "Vi drar på curling! Her vil dere få opplæring, så alle kan være med! Det koster 200 kr å være med. Link til påmelding kommer på mail og på Facebook-gruppen \"Masterfadderuke for informatikk 2016\".\r\nKle dere godt og lagvis, det er kaldt i en curlinghall.",
+      "start_time": "2016-08-26T15:30:00Z",
+      "end_time": "2016-08-26T20:00:00Z"
+    },
+    {
+      "id": 53,
+      "title": "Fredagskos hos faddere",
+      "content": "Planlegg noe digg mat med faddegruppen din for en litt slappere dag.",
+      "start_time": "2016-08-26T16:00:00Z",
+      "end_time": "2016-08-26T20:00:00Z"
+    },
+    {
+      "id": 54,
+      "title": "Fadderbarn-cup",
+      "content": "Vi stiller igjen med fotballag i fadderbarn-cupen i Dødens dal. Kom og hei!\r\n\r\n[Mer informasjon finner du på Facebook arrangementet](https://www.facebook.com/events/1624860961130781/)",
+      "start_time": "2016-08-27T08:00:00Z",
+      "end_time": "2016-08-27T15:00:00Z"
+    },
+    {
+      "id": 55,
+      "title": "Avslutningsfest",
+      "content": "Etter vors hos fadderne møtes alle informatikere på 3B for avslutningsfest.",
+      "start_time": "2016-08-27T16:00:00Z",
+      "end_time": "2016-08-27T21:59:00Z"
+    },
+    {
+      "id": 56,
+      "title": "Pizzabuffet",
+      "content": "Kom og spis pizza med oss på Egon Søndre! Pris: 108 kr.",
+      "start_time": "2016-08-28T12:00:00Z",
+      "end_time": "2016-08-28T14:00:00Z"
+    },
+    {
+      "id": 59,
+      "title": "Søknadsfrist for komitéopptak",
+      "content": "Online ser etter nye komitemedlemmer! Ved å være med på linjeforeningsarbeid får du uvurderlig erfaring, en morsommere studiehverdag og gjør det enda lettere å bli kjent med andre engasjerte informatikere! Hos oss vil du stifte nye vennskap som vil vare livet ut. \r\n\r\nØnsker du å vite mer om hva det egentlig vil si å være komitemedlem? Spør en fadder, send en melding på [slack](#slack), eller ta en tur innom kontoret hvor du kan snakke med komitemedlemmer direkte! Du kan også lese mer om de individuelle komiteene på [våre hjemmesider](https://online.ntnu.no/#about).\r\n\r\nSend inn din søknad hvor du forteller litt om deg selv, din motivasjon for vervet, hvilke komiteer du kunne tenke deg å være med i, og evt. tidligere erfaring fra lignende arbeid. Hold gjerne søknaden kort ettersom at vi arrangerer et intervju med hver søker så vi kan bli enda bedre kjent med deg.\r\n\r\nDu trenger ingen forkunnskaper for å bli komitemedlem i Online, så send inn en søknad til [opptak@online.ntnu.no](mailto:opptak@online.ntnu.no) nå!",
+      "start_time": "2016-08-28T21:59:00Z",
+      "end_time": "2016-08-28T21:59:00Z"
+    }
+  ]
+}

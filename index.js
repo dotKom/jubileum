@@ -16,13 +16,13 @@ const App = () => {
   return (
     <div>
       <About />
-      <Fadder />
+      {/*<Fadder />
       <Calendar />
       <Join />
       <Slack />
       <Social />
       <Contact />
-      <Partners />
+      <Partners />*/}
     </div>
   );
 };
