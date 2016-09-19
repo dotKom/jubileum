@@ -15,7 +15,7 @@ body {
 }
 
 h1 {
-  font-size: 42px;
+  font-size: 55px;
   margin-bottom: 20px;
   font-weight: 200;
 }
@@ -69,11 +69,23 @@ p {
 
 @media screen and (max-width: 720px) {
   h1 {
-    font-size: 18px;
+    font-size: 22px;
   }
 
   body {
     font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .orange-border {
+    width: 93%;
+  }
+  .white-border {
+    width: 90%;
+  }
+  .about-header-logo {
+    visibility: hidden;
   }
 }
 

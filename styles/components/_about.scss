@@ -41,7 +41,6 @@
 
 @media screen and (max-width: 425px) {
   #about {
-    padding-top: 135px;
     padding-bottom: 170px;
   }
   
@@ -56,7 +55,7 @@
 
 @media screen and (max-width: 320px) {
   #about {
-    padding-top: 100px;
+    margin-top: -60px;
     padding-bottom: 140px;
   }
 }
