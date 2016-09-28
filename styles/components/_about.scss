@@ -1,9 +1,9 @@
 #about {
   text-align: center;
-  padding-top: 350px;
+  //padding-top: 350px;
   width: 75%;
   color: $blue;
-  transform: rotate( -10deg);
+  //transform: rotate( -10deg);
   font-size: 22px;
 }
 
@@ -50,6 +50,9 @@
 
   .about-description {
     font-size: 14px;
+  }
+  .container {
+    width: 75%;
   }
 }
 

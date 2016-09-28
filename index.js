@@ -8,12 +8,9 @@ import Calendar from './components/calendar';
 
 const App = () => {
   return (
-    <div className="blue-border">
-      <div className="orange-border">
-        <div className="white-border">
-          <About />
-        </div>
-      </div>
+    <div className="container">
+      <About />
+      <Calendar />
     </div>
   );
 };
