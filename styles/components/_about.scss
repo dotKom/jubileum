@@ -9,6 +9,7 @@
 
 #about p {
   text-align: left;
+  padding-bottom: 50px;
 }
 
 .about-header-logo {
@@ -41,7 +42,7 @@
 
 @media screen and (max-width: 425px) {
   #about {
-    padding-bottom: 170px;
+    //padding-bottom: 170px;
   }
   
   #header {
